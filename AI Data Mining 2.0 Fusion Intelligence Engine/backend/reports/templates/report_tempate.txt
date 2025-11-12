@@ -1,0 +1,12 @@
+AI Data Mining 2.0 – Napi Riport
+---------------------------------
+
+Dátum: {{date}}
+
+Modell pontosság: {{accuracy}}
+Value bias: {{bias_shift}}
+ROI stabilitás: {{roi_stability}}
+Aktív motor: {{engine}}
+
+Megjegyzés:
+{{comment}}
